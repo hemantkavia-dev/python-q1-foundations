@@ -1,0 +1,6 @@
+name = "hemant kavia"
+print(name.title())
+
+name = "Hemant Kavia"
+print(name.upper())
+print(name.lower())
